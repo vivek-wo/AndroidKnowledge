@@ -1,11 +1,17 @@
 # AndroidKnowledge
 
-### 基础
-#### Activity
-* Activity的生命周期
-  * 生命周期
-  * 保存Activity的状态
-  * 协调Activity
-* Activity的启动模式
-  *  启动模式
-  *  Intent Flags
+系统性的学习和使用Android，整理知识点。
+
+## Android项目实战
+
+## Android Material Design设计
+
+## Android架构设计
+
+## Android第三库使用与分析
+
+## Android性能优化
+
+## Android Framework机制
+
+## React Native实战
